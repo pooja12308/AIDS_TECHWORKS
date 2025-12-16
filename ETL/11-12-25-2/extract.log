@@ -1,0 +1,61 @@
+2025-12-11 11:47:51,491 - ERROR - Attempt 1 failed for city=Delhi \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:47:54,349 - ERROR - Attempt 2 failed for city=Delhi \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:47:57,059 - ERROR - Attempt 3 failed for city=Delhi \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:47:57,060 - ERROR - FAILED Delhi \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114757.json
+2025-12-11 11:47:57,979 - ERROR - Attempt 1 failed for city=Bengaluru \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:48:01,128 - ERROR - Attempt 2 failed for city=Bengaluru \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:48:04,737 - ERROR - Attempt 3 failed for city=Bengaluru \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:48:04,738 - ERROR - FAILED Bengaluru \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114804.json
+2025-12-11 11:48:05,512 - ERROR - Attempt 1 failed for city=Hyderabad \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:48:09,615 - ERROR - Attempt 2 failed for city=Hyderabad \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:48:13,337 - ERROR - Attempt 3 failed for city=Hyderabad \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:48:13,338 - ERROR - FAILED Hyderabad \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\hyderabad_error_20251211_114813.json
+2025-12-11 11:48:14,520 - ERROR - Attempt 1 failed for city=Mumbai \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:48:17,180 - ERROR - Attempt 2 failed for city=Mumbai \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:48:19,934 - ERROR - Attempt 3 failed for city=Mumbai \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:48:19,937 - ERROR - FAILED Mumbai \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\mumbai_error_20251211_114819.json
+2025-12-11 11:48:20,705 - ERROR - Attempt 1 failed for city=Kolkata \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:48:23,475 - ERROR - Attempt 2 failed for city=Kolkata \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:48:26,886 - ERROR - Attempt 3 failed for city=Kolkata \u2192 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:48:26,887 - ERROR - FAILED Kolkata \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\kolkata_error_20251211_114826.json
+2025-12-11 11:49:15,184 - ERROR - Attempt 1 failed for city=Delhi \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Delhi
+2025-12-11 11:49:17,755 - ERROR - Attempt 2 failed for city=Delhi \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Delhi
+2025-12-11 11:49:21,419 - ERROR - Attempt 3 failed for city=Delhi \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Delhi
+2025-12-11 11:49:21,422 - ERROR - FAILED Delhi \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114921.json
+2025-12-11 11:49:23,746 - ERROR - Attempt 1 failed for city=Bengaluru \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Bengaluru
+2025-12-11 11:49:26,538 - ERROR - Attempt 2 failed for city=Bengaluru \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Bengaluru
+2025-12-11 11:49:29,542 - ERROR - Attempt 3 failed for city=Bengaluru \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Bengaluru
+2025-12-11 11:49:29,543 - ERROR - FAILED Bengaluru \u2192 Error saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114929.json
+2025-12-11 11:49:30,858 - ERROR - Attempt 1 failed for city=Hyderabad \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Hyderabad
+2025-12-11 11:49:34,451 - ERROR - Attempt 2 failed for city=Hyderabad \u2192 401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Hyderabad
+2025-12-11 11:50:11,189 - INFO - Success: Delhi saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhinormal20251211_115011.json
+2025-12-11 11:50:12,317 - INFO - Success: Bengaluru saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengalurunormal20251211_115012.json
+2025-12-11 11:50:13,396 - INFO - Success: Hyderabad saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\hyderabadnormal20251211_115013.json
+2025-12-11 11:50:15,032 - INFO - Success: Mumbai saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\mumbainormal20251211_115015.json
+2025-12-11 11:50:16,218 - INFO - Success: Kolkata saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\kolkatanormal20251211_115016.json
+2025-12-11 14:01:14,221 - INFO - HTTP Request: POST https://czvfnptvrmdsenmlwmiw.supabase.co/rest/v1/air_quality_data?columns=%22severity_score%22%2C%22carbon_monoxide%22%2C%22pm10%22%2C%22uv_index%22%2C%22city%22%2C%22nitrogen_dioxide%22%2C%22sulphur_dioxide%22%2C%22aqi_category%22%2C%22risk_flag%22%2C%22hour%22%2C%22pm2_5%22%2C%22ozone%22%2C%22time%22 "HTTP/2 201 Created"
+2025-12-11 14:01:14,408 - INFO - HTTP Request: POST https://czvfnptvrmdsenmlwmiw.supabase.co/rest/v1/air_quality_data?columns=%22severity_score%22%2C%22carbon_monoxide%22%2C%22pm10%22%2C%22uv_index%22%2C%22city%22%2C%22nitrogen_dioxide%22%2C%22sulphur_dioxide%22%2C%22aqi_category%22%2C%22risk_flag%22%2C%22hour%22%2C%22pm2_5%22%2C%22ozone%22%2C%22time%22 "HTTP/2 201 Created"
+2025-12-11 14:01:14,560 - INFO - HTTP Request: POST https://czvfnptvrmdsenmlwmiw.supabase.co/rest/v1/air_quality_data?columns=%22severity_score%22%2C%22carbon_monoxide%22%2C%22pm10%22%2C%22uv_index%22%2C%22city%22%2C%22nitrogen_dioxide%22%2C%22sulphur_dioxide%22%2C%22aqi_category%22%2C%22risk_flag%22%2C%22hour%22%2C%22pm2_5%22%2C%22ozone%22%2C%22time%22 "HTTP/2 201 Created"
+2025-12-11 14:01:17,036 - INFO - HTTP Request: GET https://czvfnptvrmdsenmlwmiw.supabase.co/rest/v1/air_quality_data?select=%2A "HTTP/2 200 OK"
+2025-12-11 14:01:19,350 - INFO - Success: Delhi saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhinormal20251211_140119.json
+2025-12-11 14:01:21,348 - INFO - Success: Bengaluru saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengalurunormal20251211_140121.json
+2025-12-11 14:01:22,415 - INFO - Success: Hyderabad saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\hyderabadnormal20251211_140122.json
+2025-12-11 14:01:23,455 - INFO - Success: Mumbai saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\mumbainormal20251211_140123.json
+2025-12-11 14:01:24,563 - INFO - Success: Kolkata saved to C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\kolkatanormal20251211_140124.json
+2025-12-11 14:01:24,568 - INFO - Found 17 raw files under C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw
+2025-12-11 14:01:24,570 - WARNING - No 'time' array in hourly payload for city=Bengaluru
+2025-12-11 14:01:24,571 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114804.json (city=Bengaluru)
+2025-12-11 14:01:24,582 - WARNING - No 'time' array in hourly payload for city=Bengaluru
+2025-12-11 14:01:24,583 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114929.json (city=Bengaluru)
+2025-12-11 14:01:24,615 - WARNING - No 'time' array in hourly payload for city=Delhi
+2025-12-11 14:01:24,616 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114757.json (city=Delhi)
+2025-12-11 14:01:24,625 - WARNING - No 'time' array in hourly payload for city=Delhi
+2025-12-11 14:01:24,626 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114921.json (city=Delhi)
+2025-12-11 14:01:24,656 - WARNING - No 'time' array in hourly payload for city=Hyderabad
+2025-12-11 14:01:24,656 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\hyderabad_error_20251211_114813.json (city=Hyderabad)
+2025-12-11 14:01:24,693 - WARNING - No 'time' array in hourly payload for city=Kolkata
+2025-12-11 14:01:24,694 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\kolkata_error_20251211_114826.json (city=Kolkata)
+2025-12-11 14:01:24,723 - WARNING - No 'time' array in hourly payload for city=Mumbai
+2025-12-11 14:01:24,723 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\mumbai_error_20251211_114819.json (city=Mumbai)
+2025-12-11 14:01:24,754 - INFO - Combined rows before cleaning: 1200
+2025-12-11 14:01:24,756 - INFO - Dropped 110 rows where all pollutant readings are missing

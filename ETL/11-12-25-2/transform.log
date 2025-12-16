@@ -1,0 +1,22 @@
+2025-12-11 11:54:57,395 - INFO - Starting transform step
+2025-12-11 11:56:59,682 - INFO - Starting transform step
+2025-12-11 11:56:59,683 - INFO - Found 12 raw files under C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw
+2025-12-11 11:56:59,684 - WARNING - No 'time' array in hourly payload for city=Bengaluru
+2025-12-11 11:56:59,685 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114804.json (city=Bengaluru)
+2025-12-11 11:56:59,685 - WARNING - No 'time' array in hourly payload for city=Bengaluru
+2025-12-11 11:56:59,687 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\bengaluru_error_20251211_114929.json (city=Bengaluru)
+2025-12-11 11:56:59,695 - WARNING - No 'time' array in hourly payload for city=Delhi
+2025-12-11 11:56:59,696 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114757.json (city=Delhi)
+2025-12-11 11:56:59,696 - WARNING - No 'time' array in hourly payload for city=Delhi
+2025-12-11 11:56:59,697 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\delhi_error_20251211_114921.json (city=Delhi)
+2025-12-11 11:56:59,701 - WARNING - No 'time' array in hourly payload for city=Hyderabad
+2025-12-11 11:56:59,702 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\hyderabad_error_20251211_114813.json (city=Hyderabad)
+2025-12-11 11:56:59,706 - WARNING - No 'time' array in hourly payload for city=Kolkata
+2025-12-11 11:56:59,706 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\kolkata_error_20251211_114826.json (city=Kolkata)
+2025-12-11 11:56:59,712 - WARNING - No 'time' array in hourly payload for city=Mumbai
+2025-12-11 11:56:59,712 - WARNING - No hourly rows produced for file C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\raw\mumbai_error_20251211_114819.json (city=Mumbai)
+2025-12-11 11:56:59,718 - INFO - Combined rows before cleaning: 600
+2025-12-11 11:56:59,721 - INFO - Dropped 55 rows where all pollutant readings are missing
+2025-12-11 11:57:00,052 - INFO - Saved transformed CSV -> C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\staged\air_quality_transformed.csv
+2025-12-11 11:57:00,052 - INFO - Saved transformed Parquet -> C:\Users\Nihal - Pooju\Desktop\AIDS_TECHWORKS\ETL\11-12-25-2\data\staged\air_quality_transformed.parquet
+2025-12-11 11:57:00,054 - INFO - Transform step finished.

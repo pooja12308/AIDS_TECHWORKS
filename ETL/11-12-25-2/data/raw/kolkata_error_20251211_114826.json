@@ -1,0 +1,4 @@
+{
+  "city": "Kolkata",
+  "error": "410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata"
+}

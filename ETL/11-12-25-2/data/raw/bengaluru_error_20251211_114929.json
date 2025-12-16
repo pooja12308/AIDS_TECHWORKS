@@ -1,0 +1,4 @@
+{
+  "city": "Bengaluru",
+  "error": "401 Client Error: Unauthorized for url: https://api.openaq.org/v3/latest?city=Bengaluru"
+}
