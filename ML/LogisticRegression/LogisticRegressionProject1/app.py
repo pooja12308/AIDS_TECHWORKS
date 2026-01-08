@@ -10,7 +10,7 @@ from sklearn.linear_model import LogisticRegression
 # PAGE CONFIG
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="Telco Customer Churn Predictor",
+    page_title="Telco Customer Churn Prediction",
     page_icon="📊",
     layout="centered"
 )
@@ -23,17 +23,19 @@ st.markdown(
 st.divider()
 
 # ---------------------------------------------------
-# LOAD DATA (ROBUST)
+# LOAD DATA (UPDATED PATH ✅)
 # ---------------------------------------------------
 @st.cache_data
 def load_data():
-    file_path = "Telcom_Customer_Churn.csv"
+    # CSV is inside the same subfolder as app.py
+    file_path = "LogisticRegressionProject1/Telcom_Customer_Churn.csv"
 
     if not os.path.exists(file_path):
         st.error("❌ Dataset file not found!")
         st.info(
-            "Please upload **Telcom_Customer_Churn.csv** to the same folder "
-            "as this app.py file in your GitHub repository."
+            "Expected file at:\n"
+            "`LogisticRegressionProject1/Telcom_Customer_Churn.csv`\n\n"
+            "Please ensure the file exists and is committed to GitHub."
         )
         st.stop()
 
@@ -48,7 +50,7 @@ X = df[['tenure', 'MonthlyCharges', 'TotalCharges']]
 y = df['Churn']
 
 # ---------------------------------------------------
-# DATA CLEANING (SAME LOGIC YOU LEARNED)
+# DATA CLEANING (SAME LOGIC AS BEFORE)
 # ---------------------------------------------------
 X['TotalCharges'] = pd.to_numeric(X['TotalCharges'], errors='coerce')
 X = X.dropna()
